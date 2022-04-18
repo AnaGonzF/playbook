@@ -26,7 +26,7 @@ En la primera parte y como una prueba para ver si realmente estaba instalado Nod
 
 Aquí el resultado en consola:
 
-![1650249233158.png](image/readme/1650249233158.png)
+![1650249852013.png](image/readme/1650249852013.png)
 
 ## Ejemplos
 
