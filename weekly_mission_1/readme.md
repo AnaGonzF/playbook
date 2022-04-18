@@ -26,7 +26,7 @@ En la primera parte y como una prueba para ver si realmente estaba instalado Nod
 
 Aquí el resultado en consola:
 
-![1650249852013.png](image/readme/1650249852013.png)
+<img width="1247" alt="image" src="https://raw.githubusercontent.com/AnaGonzF/playbook/main/weekly_mission_1/Resources/hello_js.png">
 
 ## Ejemplos
 
@@ -38,7 +38,7 @@ Aquí comenzamos con los ejemplos realizados para familiarizarme y entender JS.
 
 Aquí el resultado del ejemplo 1 en consola:
 
-![1650243369727.png](image/readme/1650243369727.png)
+<img width="1247" alt="image" src="https://raw.githubusercontent.com/AnaGonzF/playbook/main/weekly_mission_1/Resources/example_1%20main_js.png">
 
 En este ejemplo se observa más que nada qué es un objeto, para qué sirve, como se crea, sus propiedades, cómo se le declaran variables y el uso de return para exponerlas.
 
@@ -48,7 +48,7 @@ En este ejemplo se observa más que nada qué es un objeto, para qué sirve, com
 
 Aquí el resultado del ejemplo 2 en consola:
 
-![1650244275346.png](image/readme/1650244275346.png)
+<img width="1247" alt="image" src="https://raw.githubusercontent.com/AnaGonzF/playbook/main/weekly_mission_1/Resources/example_2%20main_js.png">
 
 En este ejemplo es sobre todo para exportar.
 
@@ -62,7 +62,7 @@ Esto nos ayuda con la modulación.
 
 Aquí imagen de cómo se ve en consola el ejemplo 3:
 
-![1650244898043.png](image/readme/1650244898043.png)
+<img width="1247" alt="image" src="https://raw.githubusercontent.com/AnaGonzF/playbook/main/weekly_mission_1/Resources/example_3%20main_js.png">
 
 En este ejemplo se usaron dos archivos logger, *logger_1**.js* y *logger_2.js*, y un solo *main.js*.
 
@@ -76,7 +76,7 @@ Y por último (cómo en los anteriores ejercicios), pero no menos importante, us
 
 Ejemplo 4 en consola:
 
-![1650245248235.png](image/readme/1650245248235.png)
+<img width="1247" alt="image" src="https://raw.githubusercontent.com/AnaGonzF/playbook/main/weekly_mission_1/Resources/example_4%20main_js.png">
 
 En este ejemplo usamos los archivos *logger.js* y *main.js*.
 
@@ -92,7 +92,7 @@ En el archivo *main.js*, llamando a la clase con require. Después se crea un ob
 
 Ejemplo 5 en consola:
 
-![1650246096098.png](image/readme/1650246096098.png)
+<img width="1247" alt="image" src="https://raw.githubusercontent.com/AnaGonzF/playbook/main/weekly_mission_1/Resources/example_5%20main_js.png">
 
 En este ejemplo tenemos los archivos *logger.js* y *main.js*.
 
@@ -104,7 +104,7 @@ Nuevamente se usa una clase para poder tener dentro dos objetos: *constructor* y
 
 Aquí la ejecución del ejemplo 6 en consola:
 
-![1650246116977.png](image/readme/1650246116977.png)
+<img width="1247" alt="image" src="https://raw.githubusercontent.com/AnaGonzF/playbook/main/weekly_mission_1/Resources/example_6%20main_js.png">
 
 En este ejemplo tenemos los archivos *logger.js*, *patcher.js* y *main.js*.
 
@@ -120,7 +120,7 @@ Para finalizar, se llama al módulo que modifica la función (*patcher.js*) y lu
 
 Aquí el ejemplo 7 en consola:
 
-![1650246121165.png](image/readme/1650246121165.png)
+<img width="1247" alt="image" src="https://github.com/AnaGonzF/playbook/blob/main/weekly_mission_1/Resources/example_7%20mains_js.png?raw=tru">
 
 En este ejercicio tenemos los archivos *package.json*, *logger.js*, *main_module.js*, *main_2.js* y *main.js*.
 
@@ -138,7 +138,7 @@ Y en los archivos *main.js* y *main_2.js* se importa *logger.js* para así ver l
 
 Ejemplo 8 en la consola:
 
-![1650246125947.png](image/readme/1650246125947.png)
+<img width="1247" alt="image" src="https://github.com/AnaGonzF/playbook/blob/main/weekly_mission_1/Resources/example_8%20main_js.png?raw=true">
 
 En este ejemplo usamos los módulos *package.json*, *logger.js*, *main_2.js* y *main.js*.
 
@@ -158,4 +158,4 @@ En logger.js se exporta e importa la clase logger. Y finalmente en main.js y ,ai
 
 Aquí un ejemplo de cómo he hecho uso de git en mi playbook.
 
-![1650249143702.png](image/readme/1650249143702.png)
+<img width="1247" alt="image" src="https://github.com/AnaGonzF/playbook/blob/main/weekly_mission_1/Resources/Ejemplo%20de%20mi%20uso%20de%20git%20.png?raw=true">
