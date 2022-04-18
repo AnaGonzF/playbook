@@ -154,6 +154,15 @@ En logger.js se exporta e importa la clase logger. Y finalmente en main.js y ,ai
 
 ***Cooming soon in next updates...***
 
+
+Example 10: Ejercicio
+
+[Example in GitHub](https://github.com/AnaGonzF/playbook/tree/main/weekly_mission_1/example_10)
+
+***Cooming soon in next updates...***
+
+
+
 ## Uso de Git
 
 Aquí un ejemplo de cómo he hecho uso de git en mi playbook.
